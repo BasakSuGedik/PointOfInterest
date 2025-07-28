@@ -1,0 +1,406 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\utcan\\Desktop\\basaksu\\WebApplication2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{6B66E973-1F7D-4EC6-AA5F-6D9E2E8D3C54}|WebApplication2.csproj|c:\\users\\utcan\\desktop\\basaksu\\webapplication2\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6B66E973-1F7D-4EC6-AA5F-6D9E2E8D3C54}|WebApplication2.csproj|solutionrelative:controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6B66E973-1F7D-4EC6-AA5F-6D9E2E8D3C54}|WebApplication2.csproj|c:\\users\\utcan\\desktop\\basaksu\\webapplication2\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{6B66E973-1F7D-4EC6-AA5F-6D9E2E8D3C54}|WebApplication2.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6B66E973-1F7D-4EC6-AA5F-6D9E2E8D3C54}|WebApplication2.csproj|c:\\users\\utcan\\desktop\\basaksu\\webapplication2\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{6B66E973-1F7D-4EC6-AA5F-6D9E2E8D3C54}|WebApplication2.csproj|solutionrelative:appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6B66E973-1F7D-4EC6-AA5F-6D9E2E8D3C54}|WebApplication2.csproj|c:\\users\\utcan\\desktop\\basaksu\\webapplication2\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{6B66E973-1F7D-4EC6-AA5F-6D9E2E8D3C54}|WebApplication2.csproj|solutionrelative:properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6B66E973-1F7D-4EC6-AA5F-6D9E2E8D3C54}|WebApplication2.csproj|c:\\users\\utcan\\desktop\\basaksu\\webapplication2\\controllers\\pointcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6B66E973-1F7D-4EC6-AA5F-6D9E2E8D3C54}|WebApplication2.csproj|solutionrelative:controllers\\pointcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6B66E973-1F7D-4EC6-AA5F-6D9E2E8D3C54}|WebApplication2.csproj|c:\\users\\utcan\\desktop\\basaksu\\webapplication2\\repositories\\unitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6B66E973-1F7D-4EC6-AA5F-6D9E2E8D3C54}|WebApplication2.csproj|solutionrelative:repositories\\unitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6B66E973-1F7D-4EC6-AA5F-6D9E2E8D3C54}|WebApplication2.csproj|c:\\users\\utcan\\desktop\\basaksu\\webapplication2\\services\\interfaces\\ipointservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6B66E973-1F7D-4EC6-AA5F-6D9E2E8D3C54}|WebApplication2.csproj|solutionrelative:services\\interfaces\\ipointservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6B66E973-1F7D-4EC6-AA5F-6D9E2E8D3C54}|WebApplication2.csproj|c:\\users\\utcan\\desktop\\basaksu\\webapplication2\\repositories\\genericrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6B66E973-1F7D-4EC6-AA5F-6D9E2E8D3C54}|WebApplication2.csproj|solutionrelative:repositories\\genericrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6B66E973-1F7D-4EC6-AA5F-6D9E2E8D3C54}|WebApplication2.csproj|c:\\users\\utcan\\desktop\\basaksu\\webapplication2\\services\\pointservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6B66E973-1F7D-4EC6-AA5F-6D9E2E8D3C54}|WebApplication2.csproj|solutionrelative:services\\pointservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6B66E973-1F7D-4EC6-AA5F-6D9E2E8D3C54}|WebApplication2.csproj|c:\\users\\utcan\\desktop\\basaksu\\webapplication2\\repositories\\interfaces\\igenericrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6B66E973-1F7D-4EC6-AA5F-6D9E2E8D3C54}|WebApplication2.csproj|solutionrelative:repositories\\interfaces\\igenericrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6B66E973-1F7D-4EC6-AA5F-6D9E2E8D3C54}|WebApplication2.csproj|c:\\users\\utcan\\desktop\\basaksu\\webapplication2\\dtos\\pointcreatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6B66E973-1F7D-4EC6-AA5F-6D9E2E8D3C54}|WebApplication2.csproj|solutionrelative:dtos\\pointcreatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6B66E973-1F7D-4EC6-AA5F-6D9E2E8D3C54}|WebApplication2.csproj|c:\\users\\utcan\\desktop\\basaksu\\webapplication2\\dtos\\pointdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6B66E973-1F7D-4EC6-AA5F-6D9E2E8D3C54}|WebApplication2.csproj|solutionrelative:dtos\\pointdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6B66E973-1F7D-4EC6-AA5F-6D9E2E8D3C54}|WebApplication2.csproj|c:\\users\\utcan\\desktop\\basaksu\\webapplication2\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6B66E973-1F7D-4EC6-AA5F-6D9E2E8D3C54}|WebApplication2.csproj|solutionrelative:data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6B66E973-1F7D-4EC6-AA5F-6D9E2E8D3C54}|WebApplication2.csproj|c:\\users\\utcan\\desktop\\basaksu\\webapplication2\\services\\polygonservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6B66E973-1F7D-4EC6-AA5F-6D9E2E8D3C54}|WebApplication2.csproj|solutionrelative:services\\polygonservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6B66E973-1F7D-4EC6-AA5F-6D9E2E8D3C54}|WebApplication2.csproj|c:\\users\\utcan\\desktop\\basaksu\\webapplication2\\models\\point.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6B66E973-1F7D-4EC6-AA5F-6D9E2E8D3C54}|WebApplication2.csproj|solutionrelative:models\\point.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6B66E973-1F7D-4EC6-AA5F-6D9E2E8D3C54}|WebApplication2.csproj|c:\\users\\utcan\\desktop\\basaksu\\webapplication2\\dtos\\linecreatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6B66E973-1F7D-4EC6-AA5F-6D9E2E8D3C54}|WebApplication2.csproj|solutionrelative:dtos\\linecreatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6B66E973-1F7D-4EC6-AA5F-6D9E2E8D3C54}|WebApplication2.csproj|c:\\users\\utcan\\desktop\\basaksu\\webapplication2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6B66E973-1F7D-4EC6-AA5F-6D9E2E8D3C54}|WebApplication2.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6B66E973-1F7D-4EC6-AA5F-6D9E2E8D3C54}|WebApplication2.csproj|c:\\users\\utcan\\desktop\\basaksu\\webapplication2\\dtos\\polygoncreatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6B66E973-1F7D-4EC6-AA5F-6D9E2E8D3C54}|WebApplication2.csproj|solutionrelative:dtos\\polygoncreatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6B66E973-1F7D-4EC6-AA5F-6D9E2E8D3C54}|WebApplication2.csproj|c:\\users\\utcan\\desktop\\basaksu\\webapplication2\\controllers\\linecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6B66E973-1F7D-4EC6-AA5F-6D9E2E8D3C54}|WebApplication2.csproj|solutionrelative:controllers\\linecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6B66E973-1F7D-4EC6-AA5F-6D9E2E8D3C54}|WebApplication2.csproj|c:\\users\\utcan\\desktop\\basaksu\\webapplication2\\dtos\\polygondto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6B66E973-1F7D-4EC6-AA5F-6D9E2E8D3C54}|WebApplication2.csproj|solutionrelative:dtos\\polygondto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6B66E973-1F7D-4EC6-AA5F-6D9E2E8D3C54}|WebApplication2.csproj|c:\\users\\utcan\\desktop\\basaksu\\webapplication2\\dtos\\linedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6B66E973-1F7D-4EC6-AA5F-6D9E2E8D3C54}|WebApplication2.csproj|solutionrelative:dtos\\linedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6B66E973-1F7D-4EC6-AA5F-6D9E2E8D3C54}|WebApplication2.csproj|c:\\users\\utcan\\desktop\\basaksu\\webapplication2\\repositories\\interfaces\\iunitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6B66E973-1F7D-4EC6-AA5F-6D9E2E8D3C54}|WebApplication2.csproj|solutionrelative:repositories\\interfaces\\iunitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6B66E973-1F7D-4EC6-AA5F-6D9E2E8D3C54}|WebApplication2.csproj|c:\\users\\utcan\\desktop\\basaksu\\webapplication2\\controllers\\polygoncontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6B66E973-1F7D-4EC6-AA5F-6D9E2E8D3C54}|WebApplication2.csproj|solutionrelative:controllers\\polygoncontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6B66E973-1F7D-4EC6-AA5F-6D9E2E8D3C54}|WebApplication2.csproj|c:\\users\\utcan\\desktop\\basaksu\\webapplication2\\services\\interfaces\\ipolygonservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6B66E973-1F7D-4EC6-AA5F-6D9E2E8D3C54}|WebApplication2.csproj|solutionrelative:services\\interfaces\\ipolygonservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "WeatherForecastController.cs",
+              "DocumentMoniker": "C:\\Users\\utcan\\Desktop\\basaksu\\WebApplication2\\Controllers\\WeatherForecastController.cs",
+              "RelativeDocumentMoniker": "Controllers\\WeatherForecastController.cs",
+              "ToolTip": "C:\\Users\\utcan\\Desktop\\basaksu\\WebApplication2\\Controllers\\WeatherForecastController.cs",
+              "RelativeToolTip": "Controllers\\WeatherForecastController.cs",
+              "ViewState": "AgIAABgAAAAAAAAAAAAAACEAAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-28T17:44:59.419Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "PointCreateDto.cs",
+              "DocumentMoniker": "C:\\Users\\utcan\\Desktop\\basaksu\\WebApplication2\\DTOs\\PointCreateDto.cs",
+              "RelativeDocumentMoniker": "DTOs\\PointCreateDto.cs",
+              "ToolTip": "C:\\Users\\utcan\\Desktop\\basaksu\\WebApplication2\\DTOs\\PointCreateDto.cs",
+              "RelativeToolTip": "DTOs\\PointCreateDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-18T10:10:31.71Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "GenericRepository.cs",
+              "DocumentMoniker": "C:\\Users\\utcan\\Desktop\\basaksu\\WebApplication2\\Repositories\\GenericRepository.cs",
+              "RelativeDocumentMoniker": "Repositories\\GenericRepository.cs",
+              "ToolTip": "C:\\Users\\utcan\\Desktop\\basaksu\\WebApplication2\\Repositories\\GenericRepository.cs",
+              "RelativeToolTip": "Repositories\\GenericRepository.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAqwDAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-09T06:28:56.002Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "PointController.cs",
+              "DocumentMoniker": "C:\\Users\\utcan\\Desktop\\basaksu\\WebApplication2\\Controllers\\PointController.cs",
+              "RelativeDocumentMoniker": "Controllers\\PointController.cs",
+              "ToolTip": "C:\\Users\\utcan\\Desktop\\basaksu\\WebApplication2\\Controllers\\PointController.cs",
+              "RelativeToolTip": "Controllers\\PointController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-10T11:11:00.537Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\utcan\\Desktop\\basaksu\\WebApplication2\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "C:\\Users\\utcan\\Desktop\\basaksu\\WebApplication2\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAABnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-07-17T16:36:50.429Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "appsettings.Development.json",
+              "DocumentMoniker": "C:\\Users\\utcan\\Desktop\\basaksu\\WebApplication2\\appsettings.Development.json",
+              "RelativeDocumentMoniker": "appsettings.Development.json",
+              "ToolTip": "C:\\Users\\utcan\\Desktop\\basaksu\\WebApplication2\\appsettings.Development.json",
+              "RelativeToolTip": "appsettings.Development.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-07-28T17:10:35.174Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "PointService.cs",
+              "DocumentMoniker": "C:\\Users\\utcan\\Desktop\\basaksu\\WebApplication2\\Services\\PointService.cs",
+              "RelativeDocumentMoniker": "Services\\PointService.cs",
+              "ToolTip": "C:\\Users\\utcan\\Desktop\\basaksu\\WebApplication2\\Services\\PointService.cs",
+              "RelativeToolTip": "Services\\PointService.cs",
+              "ViewState": "AgIAAH4AAAAAAAAAAAAUwJ4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-10T11:11:27.747Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "PolygonService.cs",
+              "DocumentMoniker": "C:\\Users\\utcan\\Desktop\\basaksu\\WebApplication2\\Services\\PolygonService.cs",
+              "RelativeDocumentMoniker": "Services\\PolygonService.cs",
+              "ToolTip": "C:\\Users\\utcan\\Desktop\\basaksu\\WebApplication2\\Services\\PolygonService.cs",
+              "RelativeToolTip": "Services\\PolygonService.cs",
+              "ViewState": "AgIAAG8AAAAAAAAAAAAcwHkAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-10T11:12:12.751Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\utcan\\Desktop\\basaksu\\WebApplication2\\Data\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "Data\\AppDbContext.cs",
+              "ToolTip": "C:\\Users\\utcan\\Desktop\\basaksu\\WebApplication2\\Data\\AppDbContext.cs",
+              "RelativeToolTip": "Data\\AppDbContext.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAA/wCUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-09T11:29:04.705Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "PointDto.cs",
+              "DocumentMoniker": "C:\\Users\\utcan\\Desktop\\basaksu\\WebApplication2\\DTOs\\PointDto.cs",
+              "RelativeDocumentMoniker": "DTOs\\PointDto.cs",
+              "ToolTip": "C:\\Users\\utcan\\Desktop\\basaksu\\WebApplication2\\DTOs\\PointDto.cs",
+              "RelativeToolTip": "DTOs\\PointDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-18T10:10:33.247Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "UnitOfWork.cs",
+              "DocumentMoniker": "C:\\Users\\utcan\\Desktop\\basaksu\\WebApplication2\\Repositories\\UnitOfWork.cs",
+              "RelativeDocumentMoniker": "Repositories\\UnitOfWork.cs",
+              "ToolTip": "C:\\Users\\utcan\\Desktop\\basaksu\\WebApplication2\\Repositories\\UnitOfWork.cs",
+              "RelativeToolTip": "Repositories\\UnitOfWork.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAmwCMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-10T06:49:53.263Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Point.cs",
+              "DocumentMoniker": "C:\\Users\\utcan\\Desktop\\basaksu\\WebApplication2\\Models\\Point.cs",
+              "RelativeDocumentMoniker": "Models\\Point.cs",
+              "ToolTip": "C:\\Users\\utcan\\Desktop\\basaksu\\WebApplication2\\Models\\Point.cs",
+              "RelativeToolTip": "Models\\Point.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-24T10:19:33.311Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\utcan\\Desktop\\basaksu\\WebApplication2\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\utcan\\Desktop\\basaksu\\WebApplication2\\Properties\\launchSettings.json",
+              "RelativeToolTip": "Properties\\launchSettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACIAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-07-11T10:32:50.097Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "IPointService.cs",
+              "DocumentMoniker": "C:\\Users\\utcan\\Desktop\\basaksu\\WebApplication2\\Services\\Interfaces\\IPointService.cs",
+              "RelativeDocumentMoniker": "Services\\Interfaces\\IPointService.cs",
+              "ToolTip": "C:\\Users\\utcan\\Desktop\\basaksu\\WebApplication2\\Services\\Interfaces\\IPointService.cs",
+              "RelativeToolTip": "Services\\Interfaces\\IPointService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-24T10:22:47.238Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "IGenericRepository.cs",
+              "DocumentMoniker": "C:\\Users\\utcan\\Desktop\\basaksu\\WebApplication2\\Repositories\\Interfaces\\IGenericRepository.cs",
+              "RelativeDocumentMoniker": "Repositories\\Interfaces\\IGenericRepository.cs",
+              "ToolTip": "C:\\Users\\utcan\\Desktop\\basaksu\\WebApplication2\\Repositories\\Interfaces\\IGenericRepository.cs",
+              "RelativeToolTip": "Repositories\\Interfaces\\IGenericRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-10T06:55:54.994Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "LineCreateDto.cs",
+              "DocumentMoniker": "C:\\Users\\utcan\\Desktop\\basaksu\\WebApplication2\\DTOs\\LineCreateDto.cs",
+              "RelativeDocumentMoniker": "DTOs\\LineCreateDto.cs",
+              "ToolTip": "C:\\Users\\utcan\\Desktop\\basaksu\\WebApplication2\\DTOs\\LineCreateDto.cs",
+              "RelativeToolTip": "DTOs\\LineCreateDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-18T10:10:24.949Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "PolygonCreateDto.cs",
+              "DocumentMoniker": "C:\\Users\\utcan\\Desktop\\basaksu\\WebApplication2\\DTOs\\PolygonCreateDto.cs",
+              "RelativeDocumentMoniker": "DTOs\\PolygonCreateDto.cs",
+              "ToolTip": "C:\\Users\\utcan\\Desktop\\basaksu\\WebApplication2\\DTOs\\PolygonCreateDto.cs",
+              "RelativeToolTip": "DTOs\\PolygonCreateDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-18T10:10:34.391Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "LineController.cs",
+              "DocumentMoniker": "C:\\Users\\utcan\\Desktop\\basaksu\\WebApplication2\\Controllers\\LineController.cs",
+              "RelativeDocumentMoniker": "Controllers\\LineController.cs",
+              "ToolTip": "C:\\Users\\utcan\\Desktop\\basaksu\\WebApplication2\\Controllers\\LineController.cs",
+              "RelativeToolTip": "Controllers\\LineController.cs",
+              "ViewState": "AgIAACsAAAAAAAAAAAAkwEAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-17T16:37:30.634Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\utcan\\Desktop\\basaksu\\WebApplication2\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\utcan\\Desktop\\basaksu\\WebApplication2\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-10T06:51:24.971Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "LineDto.cs",
+              "DocumentMoniker": "C:\\Users\\utcan\\Desktop\\basaksu\\WebApplication2\\DTOs\\LineDto.cs",
+              "RelativeDocumentMoniker": "DTOs\\LineDto.cs",
+              "ToolTip": "C:\\Users\\utcan\\Desktop\\basaksu\\WebApplication2\\DTOs\\LineDto.cs",
+              "RelativeToolTip": "DTOs\\LineDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-18T10:10:25.888Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "PolygonDto.cs",
+              "DocumentMoniker": "C:\\Users\\utcan\\Desktop\\basaksu\\WebApplication2\\DTOs\\PolygonDto.cs",
+              "RelativeDocumentMoniker": "DTOs\\PolygonDto.cs",
+              "ToolTip": "C:\\Users\\utcan\\Desktop\\basaksu\\WebApplication2\\DTOs\\PolygonDto.cs",
+              "RelativeToolTip": "DTOs\\PolygonDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-18T10:10:35.414Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "IUnitOfWork.cs",
+              "DocumentMoniker": "C:\\Users\\utcan\\Desktop\\basaksu\\WebApplication2\\Repositories\\Interfaces\\IUnitOfWork.cs",
+              "RelativeDocumentMoniker": "Repositories\\Interfaces\\IUnitOfWork.cs",
+              "ToolTip": "C:\\Users\\utcan\\Desktop\\basaksu\\WebApplication2\\Repositories\\Interfaces\\IUnitOfWork.cs",
+              "RelativeToolTip": "Repositories\\Interfaces\\IUnitOfWork.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-10T06:47:25.595Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "PolygonController.cs",
+              "DocumentMoniker": "C:\\Users\\utcan\\Desktop\\basaksu\\WebApplication2\\Controllers\\PolygonController.cs",
+              "RelativeDocumentMoniker": "Controllers\\PolygonController.cs",
+              "ToolTip": "C:\\Users\\utcan\\Desktop\\basaksu\\WebApplication2\\Controllers\\PolygonController.cs",
+              "RelativeToolTip": "Controllers\\PolygonController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-11T06:26:28.73Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "IPolygonService.cs",
+              "DocumentMoniker": "C:\\Users\\utcan\\Desktop\\basaksu\\WebApplication2\\Services\\Interfaces\\IPolygonService.cs",
+              "RelativeDocumentMoniker": "Services\\Interfaces\\IPolygonService.cs",
+              "ToolTip": "C:\\Users\\utcan\\Desktop\\basaksu\\WebApplication2\\Services\\Interfaces\\IPolygonService.cs",
+              "RelativeToolTip": "Services\\Interfaces\\IPolygonService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-10T11:31:16.677Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
